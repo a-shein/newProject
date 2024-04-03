@@ -1,0 +1,9 @@
+{
+    "name": "alexander/new-project",
+    "autoload": {
+        "psr-4": {
+            "Alexander\\NewProject\\": "app/"
+        }
+    },
+    "require": {}
+}
